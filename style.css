@@ -1,65 +1,71 @@
-.container {
-  border: 1px solid #fff;
-
-  ul {
-    display: block;
-    float: left;
-    width: 100%;
-  }
-
-  li {
-    box-sizing: border-box;
-    display: block;
-    float: left;
-    overflow: hidden;
-    position: relative;
-    padding-bottom: 33.3%;
-    width: 33.3%;
-
-    background-color: #000;
-    border: 2px solid #fff;
-
-    &:hover {
-      h3 {
-        opacity: 1;
-        transition: all .3s ease-in-out .1s;
-      }
-      img {
-        opacity: 1;
-        transform: scale(1);
-      }
-    }
-    
-    h3 {
-      position: absolute;
-      left: 0px;
-      min-height: 3em;
-      padding: 15px;
-      right: 0px;
-      top: 0px;
-      z-index: 10;
-
-      background: linear-gradient(180deg, rgba(0, 0, 0, .65), rgba(0, 0, 0, 0));
-      color: #fff;
-      font-size: 16px;
-      font-weight: bold;
-      line-height: 1.5em;
-      opacity: 0;
-      transition: all .3s ease-in-out;
+body {
+  width: 80%;
+  margin: 30px auto;
+  font-family: sans-serif;
 }
 
-    img {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      max-height: 110%;
-      max-width: 110%;
-      opacity: .7;
-      right: 0;
-      top: 0;
-      transform: scale(1.1);
-      transition: all .3s ease-in-out;
-      z-index: 0;
-    }
+h3 {
+  text-align: center;
+  font-size: 1.65em;
+  margin: 0 0 30px;
+}
+
+div {
+  font-size: 0;
+}
+
+a {
+  font-size: 16px;
+  overflow: hidden;
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+  margin-right: 8px;
+}
+
+a:nth-of-type(2n) {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 50em) {
+  a {
+    width: calc(25% - 6px);
   }
+  
+  a:nth-of-type(2n) {
+    margin-right: 8px;
+  }
+  
+  a:nth-of-type(4n) {
+    margin-right: 0;
+  }
+}
+
+a:hover img {
+  transform: scale(1.15);
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  border: none;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background: #ccc;
+  transition: transform .2s ease-in-out;
+}
+
+.p a {
+  display: inline;
+  font-size: 13px;
+  margin: 0;
+}
+
+.p {
+  text-align: center;
+  font-size: 13px;
+  padding-top: 100px;
 }
