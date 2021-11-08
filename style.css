@@ -1,65 +1,39 @@
-.container {
-  border: 1px solid #fff;
-
-  ul {
-    display: block;
-    float: left;
-    width: 100%;
-  }
-
-  li {
-    box-sizing: border-box;
-    display: block;
-    float: left;
-    overflow: hidden;
-    position: relative;
-    padding-bottom: 33.3%;
-    width: 33.3%;
-
-    background-color: #000;
-    border: 2px solid #fff;
-
-    &:hover {
-      h3 {
-        opacity: 1;
-        transition: all .3s ease-in-out .1s;
-      }
-      img {
-        opacity: 1;
-        transform: scale(1);
-      }
-    }
-    
-    h3 {
-      position: absolute;
-      left: 0px;
-      min-height: 3em;
-      padding: 15px;
-      right: 0px;
-      top: 0px;
-      z-index: 10;
-
-      background: linear-gradient(180deg, rgba(0, 0, 0, .65), rgba(0, 0, 0, 0));
-      color: #fff;
-      font-size: 16px;
-      font-weight: bold;
-      line-height: 1.5em;
-      opacity: 0;
-      transition: all .3s ease-in-out;
+body {
+  margin: 0;
 }
 
-    img {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      max-height: 110%;
-      max-width: 110%;
-      opacity: .7;
-      right: 0;
-      top: 0;
-      transform: scale(1.1);
-      transition: all .3s ease-in-out;
-      z-index: 0;
-    }
+.image-grid {
+  --gap: 16px;
+  --num-cols: 4;
+  --row-height: 300px;
+
+  box-sizing: border-box;
+  padding: var(--gap);
+
+  display: grid;
+  grid-template-columns: repeat(var(--num-cols), 1fr);
+  grid-auto-rows: var(--row-height);
+  gap: var(--gap);
+}
+
+.image-grid > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-grid-col-2 {
+  grid-column: span 2;
+}
+
+.image-grid-row-2 {
+  grid-row: span 2;
+}
+
+/* Anything udner 1024px */
+@media screen and (max-width: 1024px) {
+  .image-grid {
+    --num-cols: 2;
+    --row-height: 200px;
   }
 }
