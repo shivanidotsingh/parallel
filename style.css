@@ -13,14 +13,14 @@ body
 }
 
 input {
-  font-size: 1.5rem;
-  padding: 0.5rem;
-  width: 200px;
+  font-size: 2rem;
+  padding: 1rem;
+  width: 400px;
   margin-bottom: 1rem;
 }
 
 button {
-  font-size: 1.2rem;
+  font-size: 2rem;
   padding: 0.5rem 1rem;
   background: none;
   border-width: 0;
