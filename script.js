@@ -8,7 +8,7 @@ function showEvents() {
     const events = eventsByYear[year];
     const [first, second] = shuffle(events).slice(0, 2);
     event1.textContent = first;
-    event2.textContent = second;
+    event2.textContent = "Meanwhile, " + second;
   } else {
     event1.textContent = "No data available for this year.";
     event2.textContent = "";
