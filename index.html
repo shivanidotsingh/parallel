@@ -1,8 +1,22 @@
-<body bgcolor="blue">
-
-<p><strong><font style="font-size:700%;line-height:1.2;" face="helvetica" size="82px" color="yellow">
-  Thank you for always being so kind, geneorus and ready with a weekend plan.
-  Your genuine curiosity about the world around you will surely continue to bring the best things your way.
-♥
-</font></strong></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parallel History</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Enter a Year</h1>
+    <input type="number" id="yearInput" placeholder="e.g. 1845" min="1200" max="2025" />
+    <button onclick="showEvents()">Show Events</button>
+    <div id="eventDisplay">
+      <p id="event1"></p>
+      <p id="event2"></p>
+    </div>
+  </main>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
 </body>
+</html>
