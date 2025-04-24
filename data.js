@@ -110,7 +110,7 @@ const eventsByYear = {
   1847: [
     "Liberia becomes the first African republic governed by formerly enslaved African Americans.",
     "The Taiping Rebellion begins to simmer in China, driven by a blend of Christianity and anti-Qing sentiment."
-  ]
+  ],
   1850: [
       "The Compromise of 1850 was passed, addressing issues related to slavery and territorial expansion in the United States.",
       "The Taiping Rebellion began in China, led by Hong Xiuquan, who claimed to be the younger brother of Jesus Christ."
