@@ -510,5 +510,170 @@ const eventsByYear = {
   1949: [
       "The North Atlantic Treaty Organization (NATO) was established.",
       "The People's Republic of China was proclaimed by Mao Zedong following the Chinese Communist Revolution."
+  ],
+1950: [
+    "The Korean War began when North Korea invaded South Korea.",
+    "The first credit card (Diners Club) was introduced in the United States."
+  ],
+  1951: [
+    "Julius and Ethel Rosenberg were convicted of espionage in the United States.",
+    "Libya gained independence from Italian control under King Idris."
+  ],
+  1952: [
+    "Elizabeth II became Queen of the United Kingdom following the death of her father, King George VI.",
+    "The polio epidemic reached its peak in the United States with over 57,000 cases reported."
+  ],
+  1953: [
+    "DNA's double helix structure was discovered by James Watson and Francis Crick.",
+    "Joseph Stalin, leader of the Soviet Union, died after nearly 30 years in power."
+  ],
+  1954: [
+    "The Brown v. Board of Education Supreme Court decision ruled that racial segregation in public schools was unconstitutional.",
+    "The first nuclear-powered submarine, USS Nautilus, was launched."
+  ],
+  1955: [
+    "Rosa Parks refused to give up her seat on a Montgomery, Alabama bus, inspiring the civil rights movement.",
+    "The Warsaw Pact was established as a military alliance of communist countries in Eastern Europe."
+  ],
+  1956: [
+    "The Suez Crisis occurred when Israel, Britain, and France invaded Egypt after the nationalization of the Suez Canal.",
+    "The Hungarian Revolution against Soviet control was violently suppressed by Soviet forces."
+  ],
+  1957: [
+    "The Soviet Union launched Sputnik 1, the first artificial Earth satellite, beginning the Space Age.",
+    "Ghana became the first sub-Saharan African nation to gain independence from colonial rule."
+  ],
+  1958: [
+    "The European Economic Community (precursor to the EU) was established.",
+    "NASA, the National Aeronautics and Space Administration, was formed in the United States."
+  ],
+  1959: [
+    "The Cuban Revolution succeeded as Fidel Castro overthrew the Batista regime.",
+    "The first Barbie doll was introduced by Mattel at the American Toy Fair."
+  ],
+  1960: [
+    "The birth control pill was approved for contraceptive use in the United States.",
+    "Seventeen African nations achieved independence from European colonial powers in what became known as the 'Year of Africa'."
+  ],
+  1961: [
+    "The Berlin Wall was erected, physically dividing East and West Berlin.",
+    "Yuri Gagarin became the first human to journey into outer space, orbiting Earth in the Vostok 1 spacecraft."
+  ],
+  1962: [
+    "The Cuban Missile Crisis brought the United States and Soviet Union to the brink of nuclear conflict.",
+    "Algeria gained independence from France after an eight-year war."
+  ],
+  1963: [
+    "U.S. President John F. Kennedy was assassinated in Dallas, Texas.",
+    "Martin Luther King Jr. delivered his 'I Have a Dream' speech during the March on Washington."
+  ],
+  1964: [
+    "The Civil Rights Act was signed into law in the United States, prohibiting discrimination based on race, color, religion, sex, or national origin.",
+    "The Beatles made their first appearance on The Ed Sullivan Show, marking the beginning of 'Beatlemania' in America."
+  ],
+  1965: [
+    "The United States began regular bombing raids on North Vietnam in Operation Rolling Thunder.",
+    "Malcolm X was assassinated while giving a speech in New York City."
+  ],
+  1966: [
+    "The Cultural Revolution began in China under Chairman Mao Zedong.",
+    "England won the FIFA World Cup, defeating West Germany in the final."
+  ],
+  1967: [
+    "The Six-Day War was fought between Israel and neighboring states of Egypt, Jordan, and Syria.",
+    "The world's first heart transplant was performed by Dr. Christiaan Barnard in South Africa."
+  ],
+  1968: [
+    "Martin Luther King Jr. and Robert F. Kennedy were both assassinated in separate incidents.",
+    "The Prague Spring reforms in Czechoslovakia were crushed by Soviet invasion."
+  ],
+  1969: [
+    "Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon.",
+    "The Woodstock Music Festival was held in upstate New York, becoming a defining moment for the counterculture generation."
+  ],
+  1970: [
+    "The Beatles officially broke up after a decade of transforming popular music.",
+    "The first Earth Day was observed, marking the birth of the modern environmental movement."
+  ],
+  1971: [
+    "The Pentagon Papers were published, revealing previously secret information about the Vietnam War.",
+    "Bangladesh declared independence from Pakistan after a nine-month war."
+  ],
+  1972: [
+    "The Watergate scandal began with the arrest of five men for breaking into the Democratic National Committee headquarters.",
+    "Eleven Israeli athletes were killed by Palestinian terrorists at the Munich Olympics."
+  ],
+  1973: [
+    "The United States Supreme Court's Roe v. Wade decision legalized abortion nationwide.",
+    "The 1973 oil crisis began when OPEC countries proclaimed an oil embargo."
+  ],
+  1974: [
+    "U.S. President Richard Nixon resigned due to the Watergate scandal.",
+    "The Terracotta Army was discovered in Xi'an, China, one of the greatest archaeological finds of the 20th century."
+  ],
+  1975: [
+    "The Vietnam War ended with the fall of Saigon to North Vietnamese forces.",
+    "Microsoft Corporation was founded by Bill Gates and Paul Allen."
+  ],
+  1976: [
+    "The Apple Computer Company was formed by Steve Jobs and Steve Wozniak.",
+    "The Soweto uprising began in South Africa when black students protested against the introduction of Afrikaans as a medium of instruction."
+  ],
+  1977: [
+    "Elvis Presley, the 'King of Rock and Roll,' died at his Graceland estate in Memphis, Tennessee.",
+    "The first commercial flight of the Concorde supersonic passenger airliner took place."
+  ],
+  1978: [
+    "The Camp David Accords were signed by Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin.",
+    "The world's first test tube baby, Louise Brown, was born in England."
+  ],
+  1979: [
+    "The Iranian Revolution overthrew the Shah and established an Islamic Republic under Ayatollah Khomeini.",
+    "Margaret Thatcher became the first female Prime Minister of the United Kingdom."
+  ],
+  1980: [
+    "Mount St. Helens erupted in Washington state, causing widespread destruction.",
+    "John Lennon, former member of The Beatles, was shot and killed outside his New York City apartment."
+  ],
+  1981: [
+    "AIDS was first identified by the U.S. Centers for Disease Control and Prevention.",
+    "The first space shuttle, Columbia, was launched by NASA."
+  ],
+  1982: [
+    "The Falklands War was fought between Argentina and the United Kingdom over the disputed Falkland Islands.",
+    "Canada officially gained complete independence from the United Kingdom with the patriation of its constitution."
+  ],
+  1983: [
+    "The U.S. invasion of Grenada, code-named Operation Urgent Fury, was launched.",
+    "The Internet's Domain Name System (DNS) was invented, creating the system of .com, .org, and other domains."
+  ],
+  1984: [
+    "The deadly gas leak at the Union Carbide plant in Bhopal, India killed thousands in the world's worst industrial disaster.",
+    "Indira Gandhi, Prime Minister of India, was assassinated by her Sikh bodyguards."
+  ],
+  1985: [
+    "The Live Aid concert was held simultaneously in London and Philadelphia to raise funds for Ethiopian famine relief.",
+    "Mikhail Gorbachev became the leader of the Soviet Union, beginning the era of perestroika and glasnost."
+  ],
+  1986: [
+    "The Space Shuttle Challenger disaster killed all seven crew members shortly after launch.",
+    "The Chernobyl nuclear disaster occurred in Ukraine, then part of the Soviet Union."
+  ],
+  1987: [
+    "The stock market experienced 'Black Monday,' when the Dow Jones Industrial Average fell by 22% in a single day.",
+    "The Intermediate-Range Nuclear Forces Treaty was signed by the U.S. and Soviet Union."
+  ],
+  1988: [
+    "The Soviet Union began withdrawing its troops from Afghanistan after a nine-year conflict.",
+    "Pan Am Flight 103 was destroyed by a bomb over Lockerbie, Scotland, killing 270 people."
+  ],
+  1989: [
+    "The Berlin Wall fell as East Germany opened its borders, symbolizing the end of the Cold War.",
+    "The Tiananmen Square protests in China were violently suppressed by the government."
+  ],
+  1990: [
+    "Nelson Mandela was released from prison in South Africa after 27 years of incarceration.",
+    "Iraq invaded Kuwait, leading to the Gulf War."
   ]
+  
 };
