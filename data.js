@@ -111,6 +111,14 @@ const eventsByYear = {
     "Liberia becomes the first African republic governed by formerly enslaved African Americans.",
     "The Taiping Rebellion begins to simmer in China, driven by a blend of Christianity and anti-Qing sentiment."
   ],
+1848: [
+    "The Communist Manifesto was published by Karl Marx and Friedrich Engels.",
+    "The California Gold Rush began when gold was discovered at Sutter's Mill."
+  ],
+  1849: [
+    "The safety pin was patented by American inventor Walter Hunt.",
+    "The Siege of Hungarian Komárom ended, the last battle in the Hungarian Revolution against Habsburg rule."
+  ],  
   1850: [
       "The Compromise of 1850 was passed, addressing issues related to slavery and territorial expansion in the United States.",
       "The Taiping Rebellion began in China, led by Hong Xiuquan, who claimed to be the younger brother of Jesus Christ."
@@ -674,6 +682,86 @@ const eventsByYear = {
   1990: [
     "Nelson Mandela was released from prison in South Africa after 27 years of incarceration.",
     "Iraq invaded Kuwait, leading to the Gulf War."
-  ]
+  ],
+1991: [
+    "The Soviet Union officially dissolved, ending the Cold War era.",
+    "The World Wide Web was made available to the public by CERN scientist Tim Berners-Lee."
+  ],
+  1992: [
+    "The Maastricht Treaty was signed, formally establishing the European Union.",
+    "The civil war in Bosnia and Herzegovina began, part of the larger Yugoslav Wars."
+  ],
+  1993: [
+    "The World Trade Center in New York was bombed in a terrorist attack, killing six people.",
+    "Czech Republic and Slovakia peacefully separated in what became known as the 'Velvet Divorce'."
+  ],
+  1994: [
+    "The Channel Tunnel (Chunnel) opened, connecting Britain and France.",
+    "The Rwandan Genocide resulted in the slaughter of approximately 800,000 people."
+  ],
+  1995: [
+    "The Oklahoma City bombing killed 168 people in the deadliest domestic terrorist attack in U.S. history.",
+    "The Dayton Agreement was signed, ending the Bosnian War."
+  ],
+  1996: [
+    "The Taliban seized control of Kabul, establishing the Islamic Emirate of Afghanistan.",
+    "Dolly the sheep became the first mammal to be successfully cloned from an adult cell."
+  ],
+  1997: [
+    "Princess Diana died in a car crash in Paris, triggering unprecedented public mourning.",
+    "Hong Kong was handed over from British to Chinese control after 156 years of British rule."
+  ],
+  1998: [
+    "The Good Friday Agreement was signed, largely ending The Troubles in Northern Ireland.",
+    "Google was founded by Larry Page and Sergey Brin, revolutionizing internet search."
+  ],
+  1999: [
+    "NATO conducted bombing campaigns against Yugoslavia during the Kosovo War.",
+    "The Euro was introduced as a monetary unit in 11 European Union countries."
+  ],
+  2000: [
+    "The Y2K bug proved largely uneventful despite widespread concerns about computer failures.",
+    "Vladimir Putin was elected President of Russia for the first time."
+  ],
+  2001: [
+    "The September 11 terrorist attacks killed nearly 3,000 people in the United States.",
+    "Apple released the first iPod, transforming the music industry."
+  ],
+  2002: [
+    "The Euro became the official currency in circulation in 12 European Union countries.",
+    "The Bali bombings killed 202 people, mostly foreign tourists."
+  ],
+  2003: [
+    "The United States and allies invaded Iraq, beginning the Iraq War.",
+    "The Human Genome Project was completed, successfully identifying all human genes."
+  ],
+  2004: [
+    "The Indian Ocean tsunami killed over 230,000 people across 14 countries.",
+    "Facebook was launched by Mark Zuckerberg from his Harvard dorm room."
+  ],
+  2005: [
+    "Hurricane Katrina devastated the U.S. Gulf Coast, particularly New Orleans.",
+    "Angela Merkel became the first female Chancellor of Germany."
+  ],
+  2006: [
+    "Twitter was launched by Jack Dorsey, Biz Stone, and Evan Williams.",
+    "Saddam Hussein was executed after being found guilty of crimes against humanity."
+  ],
+  2007: [
+    "The iPhone was released by Apple, revolutionizing mobile technology.",
+    "The global financial crisis began with the collapse of the U.S. housing market."
+  ],
+  2008: [
+    "Barack Obama was elected as the first African American President of the United States.",
+    "Fidel Castro stepped down as President of Cuba after nearly 50 years in power."
+  ],
+  2009: [
+    "Bitcoin, the first decentralized cryptocurrency, was created by the pseudonymous Satoshi Nakamoto.",
+    "Michael Jackson, the 'King of Pop,' died at age 50 from cardiac arrest."
+  ],
+  2010: [
+    "The Deepwater Horizon oil spill released approximately 4.9 million barrels of oil into the Gulf of Mexico.",
+    "The Arab Spring protests began in Tunisia, leading to revolutionary movements across the Middle East and North Africa."
+  ]  
   
 };
