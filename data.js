@@ -135,144 +135,144 @@ const eventsByYear = {
       "The Eureka Rebellion miners were acquitted in a public trial, leading to electoral reform and democracy in the colony of Victoria, Australia.",
       "The Hatt-ı Hümayun decree was issued, promising equality for all Ottoman citizens regardless of religion."
   ],
-  1856: {
+  1856: [
       "The Second Opium War began between China and a coalition of Western powers.",
       "The Pottawatomie Massacre occurred in Kansas Territory, where John Brown and his supporters killed five pro-slavery settlers."
-  },
-  1857: {
+  ],
+  1857: [
       "The Indian Rebellion (Sepoy Mutiny) began against British East India Company rule.",
       "The Mexican Constitution of 1857 was adopted, establishing a liberal federal republic."
-  },
-  1858: {
+  ],
+  1858: [
       "The Treaty of Amity and Commerce was signed between Japan and the United States, opening more Japanese ports to trade.",
       "The Colony of British Columbia was established on the Pacific coast of North America."
-  },
-  1859: {
+  ],
+  1859: [
       "The Battle of Solferino was fought between French-Sardinian and Austrian forces, inspiring Henry Dunant to create what would become the International Red Cross.",
       "John Brown led a raid on the federal armory at Harpers Ferry in an attempt to initiate a slave rebellion in the United States."
-  },
-  1860: {
+  ],
+  1860: [
       "Giuseppe Garibaldi led the Expedition of the Thousand to Sicily, a key event in Italian unification.",
       "The Treaty of Tientsin was ratified, ending the Second Opium War and giving foreign powers more privileges in China."
-  },
-  1861: {
+  ],
+  1861: [
       "The American Civil War began with the Confederate attack on Fort Sumter.",
       "Tsar Alexander II issued the Emancipation Reform, abolishing serfdom throughout the Russian Empire."
-  },
-  1862: {
+  ],
+  1862: [
       "The Battle of Puebla took place where Mexican forces defeated the French army, now celebrated as Cinco de Mayo.",
       "The first London Underground railway opened between Paddington and Farringdon Street."
-  },
-  1863: {
+  ],
+  1863: [
       "President Abraham Lincoln issued the Emancipation Proclamation, declaring slaves in Confederate states to be free.",
       "King Norodom signed a treaty establishing a French protectorate over Cambodia."
-  },
-  1864: {
+  ],
+  1864: [
       "The First Geneva Convention was adopted in Switzerland, establishing the International Red Cross and laying groundwork for modern humanitarian law.",
       "The War of the Triple Alliance began, with Argentina, Brazil, and Uruguay allying against Paraguay."
-  },
-  1865: {
+  ],
+  1865: [
       "The American Civil War ended and President Abraham Lincoln was assassinated.",
       "King Leopold II ascended to the Belgian throne and began planning what would become the Congo Free State."
-  },
-  1866: {
+  ],
+  1866: [
       "The Austro-Prussian War was fought, leading to Prussian dominance among German states.",
       "The last Shogun, Tokugawa Yoshinobu, took power in Japan during the final years of the Tokugawa shogunate."
-  },
-  1867: {
+  ],
+  1867: [
       "The Dominion of Canada was formed through the British North America Act, uniting three British colonies.",
       "The Austro-Hungarian Compromise established the dual monarchy of Austria-Hungary."
-  },
-  1868: {
+  ],
+  1868: [
       "The Meiji Restoration began in Japan, marking the end of the Tokugawa shogunate and the beginning of Japan's modernization.",
       "The Ten Years' War began, Cuba's first war of independence against Spanish rule."
-  },
-  1869: {
+  ],
+  1869: [
       "The Suez Canal opened in Egypt, connecting the Mediterranean Sea to the Red Sea.",
       "The First Transcontinental Railroad was completed, linking the eastern and western United States by rail."
-  },
-  1870: {
+  ],
+  1870: [
       "The Franco-Prussian War began, leading to the unification of Germany and the fall of Napoleon III in France.",
       "Italian troops entered Rome, completing Italian unification and ending the temporal power of the Pope."
-  },
-  1871: {
+  ],
+  1871: [
       "The German Empire was proclaimed in the Hall of Mirrors at Versailles, unifying numerous German states.",
       "The feudal han system was abolished in Japan as part of the Meiji reforms, centralizing political power."
-  },
-  1872: {
+  ],
+  1872: [
       "Yellowstone became the world's first national park in the United States.",
       "Japan's first railway line opened between Tokyo and Yokohama."
-  },
-  1873: {
+  ],
+  1873: [
       "The Panic of 1873 began, triggering a global economic depression known as the 'Long Depression'.",
       "The Russians conquered Khiva in present-day Uzbekistan, expanding their control in Central Asia."
-  },
-  1874: {
+  ],
+  1874: [
       "The first Impressionist exhibition was held in Paris, featuring works by Claude Monet, Edgar Degas, and others.",
       "The British annexed the Gold Coast (modern Ghana) as a colony."
-  },
-  1875: {
+  ],
+  1875: [
       "The Civil Rights Act of 1875 was passed in the United States, prohibiting racial discrimination in public accommodations.",
       "Egypt sold its shares in the Suez Canal to the United Kingdom due to financial difficulties."
-  },
-  1876: {
+  ],
+  1876: [
       "The Battle of Little Bighorn occurred, where Lakota, Northern Cheyenne, and Arapaho forces defeated Lt. Col. George Custer and the 7th Cavalry.",
       "The Ottoman Empire's first constitution was promulgated, establishing a parliamentary system."
-  },
-  1877: {
+  ],
+  1877: [
       "Reconstruction ended in the United States with the withdrawal of federal troops from the South.",
       "The Satsuma Rebellion, led by Saigō Takamori, was suppressed, marking the end of the samurai era in Japan."
-  },
-  1878: {
+  ],
+  1878: [
       "The Congress of Berlin reorganized territories in the Balkans, recognizing the independence of Romania, Serbia, and Montenegro.",
       "The first commercial telephone exchange opened in New Haven, Connecticut."
-  },
-  1879: {
+  ],
+  1879: [
       "The Anglo-Zulu War began with the British invasion of Zululand in Southern Africa.",
       "Thomas Edison demonstrated the first practical incandescent light bulb in the United States."
-  },
-  1880: {
+  ],
+  1880: [
       "The First Boer War began between the United Kingdom and the South African Republic.",
       "The Marseillaise was restored as the French national anthem after being banned during the Second Empire."
-  },
-  1881: {
+  ],
+  1881: [
       "President James A. Garfield was assassinated by Charles J. Guiteau in the United States.",
       "France established a protectorate over Tunisia in North Africa."
-  },
-  1882: {
+  ],
+  1882: [
       "The British occupied Egypt, effectively taking control while maintaining nominal Ottoman sovereignty.",
       "The Chinese Exclusion Act was passed in the United States, prohibiting Chinese labor immigration."
-  },
-  1883: {
+  ],
+  1883: [
       "Krakatoa volcano erupted in Indonesia, one of the most destructive volcanic events in recorded history.",
       "The Brooklyn Bridge opened, connecting Manhattan and Brooklyn in New York City."
-  },
-  1884: {
+  ],
+  1884: [
       "The Berlin Conference began, formalizing the 'Scramble for Africa' among European powers.",
       "The first metal-frame skyscraper, the Home Insurance Building, was constructed in Chicago."
-  },
-  1885: {
+  ],
+  1885: [
       "The Northwest Rebellion of Métis and First Nations was suppressed by Canadian forces.",
       "The Congo Free State was established as a personal possession of King Leopold II of Belgium."
-  },
-  1886: {
+  ],
+  1886: [
       "The Haymarket affair occurred in Chicago, a pivotal event in the history of labor rights.",
       "The Third Anglo-Burmese War ended with British annexation of Burma (Myanmar)."
-  },
-  1887: {
+  ],
+  1887: [
       "The Dawes Act was passed in the United States, aimed at assimilating Native Americans by dividing tribal land into individual plots.",
       "The Bayonet Constitution was forced upon King Kalākaua, stripping the Hawaiian monarchy of much of its authority."
-  },
-  1888: {
+  ],
+  1888: [
       "Princess Isabel signed the Golden Law, abolishing slavery in Brazil.",
       "The serial killer known as Jack the Ripper murdered at least five women in the Whitechapel district of London."
-  },
-  1889: {
+  ],
+  1889: [
       "The Meiji Constitution was promulgated, establishing Japan as a constitutional monarchy.",
       "The Brazilian monarchy was overthrown in a military coup, establishing the First Brazilian Republic."
-  },
-  1890: {
+  ],
+  1890: [
       "The Wounded Knee Massacre occurred, with U.S. forces killing hundreds of Lakota Sioux, marking the end of the American Indian Wars.",
       "Chancellor Otto von Bismarck was dismissed by Emperor Wilhelm II, ending his dominance in German politics."
-  }
+  ]
 };
