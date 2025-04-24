@@ -20,6 +20,8 @@ h1
   font-weight: normal; 
 }
 input {
+  background-color: inherit;
+   
   font-size: 2rem;
   padding: 1rem;
   min-width: 200px;
