@@ -28,3 +28,18 @@ function shuffle(array) {
   
   return arrayCopy;
 }
+
+function randomYear() {
+  // Get all available years from the eventsByYear object
+  const availableYears = Object.keys(eventsByYear);
+  
+  // Select a random year from the available years
+  const randomIndex = Math.floor(Math.random() * availableYears.length);
+  const randomYear = availableYears[randomIndex];
+  
+  // Update the input field with the random year
+  document.getElementById('yearInput').value = randomYear;
+  
+  // Show the events for this random year
+  showEvents();
+}
