@@ -21,9 +21,7 @@ h1
 }
 input {
   background-color: inherit;
-   
   font-size: 2rem;
-  padding: 1rem;
   min-width: 200px;
   max-width: 600px;
   margin-bottom: 1rem;
@@ -31,7 +29,6 @@ input {
 
 button {
   font-size: 2rem;
-  padding: 1rem;
   background: none;
   border-width: 0;
   cursor: pointer;
