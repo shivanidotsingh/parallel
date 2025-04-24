@@ -274,5 +274,241 @@ const eventsByYear = {
   1890: [
       "The Wounded Knee Massacre occurred, with U.S. forces killing hundreds of Lakota Sioux, marking the end of the American Indian Wars.",
       "Chancellor Otto von Bismarck was dismissed by Emperor Wilhelm II, ending his dominance in German politics."
+  ],
+   1891:  [
+      "The Italo-Ethiopian Treaty was signed, establishing a protectorate over Ethiopia, though Ethiopia maintained this was a mistranslation and asserted its independence.",
+      "Construction began on the Trans-Siberian Railway, connecting Moscow with the Russian Far East."
+  ],
+  1892:  [
+      "Ellis Island opened as an immigration station in New York Harbor, processing millions of immigrants to the United States.",
+      "The Dalmatian town of Fiume (now Rijeka, Croatia) rebelled against Habsburg rule."
+  ],
+  1893:  [
+      "New Zealand became the first self-governing country to grant women the right to vote.",
+      "The Kingdom of Hawaii was overthrown by American settlers and businessmen with the assistance of U.S. Marines."
+  ],
+  1894:  [
+      "The First Sino-Japanese War began between China and Japan, primarily over control of Korea.",
+      "Alfred Dreyfus, a French artillery officer of Jewish descent, was convicted of treason in a case that would divide France."
+  ],
+  1895: [
+      "Wilhelm Röntgen discovered X-rays, revolutionizing medical diagnostics.",
+      "Cuba's War of Independence began against Spanish colonial rule."
+  ],
+  1896: [
+      "The first modern Olympic Games were held in Athens, Greece.",
+      "Ethiopia defeated Italy at the Battle of Adwa, maintaining its independence against European colonization."
+  ],
+  1897: [
+      "The Klondike Gold Rush began in the Yukon region of Canada, attracting approximately 100,000 prospectors.",
+      "The first subway in continental Europe opened in Budapest, Hungary."
+  ],
+  1898: [
+      "The Spanish-American War began, resulting in Spain's loss of its remaining colonies in the Americas and Pacific.",
+      "Marie and Pierre Curie discovered the elements radium and polonium."
+  ],
+  1899: [
+      "The Second Boer War began between the British Empire and two Boer states in South Africa.",
+      "The Open Door Policy was announced, proposing to keep China open to trade with all countries on an equal basis."
+  ],
+  1900: [
+      "The Boxer Rebellion reached its peak in China, with anti-foreign forces besieging diplomatic compounds in Beijing.",
+      "Max Planck formulated quantum theory, revolutionizing our understanding of atomic and subatomic processes."
+  ],
+  1901: [
+      "Australia became a federation, uniting six British colonies into one nation.",
+      "U.S. President William McKinley was assassinated by anarchist Leon Czolgosz, and Theodore Roosevelt became president."
+  ],
+  1902: [
+      "The Second Boer War ended with the Treaty of Vereeniging, establishing British control over South Africa.",
+      "Mont Pelée erupted on Martinique, destroying the city of Saint-Pierre and killing about 30,000 people."
+  ],
+  1903: [
+      "The Wright brothers made the first controlled, sustained flight of a powered aircraft at Kitty Hawk, North Carolina.",
+      "A coup d'état in Serbia overthrew the Obrenović dynasty, bringing King Peter I Karađorđević to power."
+  ],
+  1904: [
+      "The Russo-Japanese War began, the first major military victory of an Asian power over a European nation in the modern era.",
+      "The construction of the Panama Canal was undertaken by the United States following the failure of a French attempt."
+  ],
+  1905: [
+      "Albert Einstein published his Special Theory of Relativity, revolutionizing our understanding of physics.",
+      "The Russo-Japanese War ended with the Treaty of Portsmouth, mediated by U.S. President Theodore Roosevelt."
+  ],
+  1906: [
+      "A massive earthquake struck San Francisco, destroying over 80% of the city and killing more than 3,000 people.",
+      "The Dreyfus Affair concluded with the exoneration and reinstatement of Alfred Dreyfus in the French Army."
+  ],
+  1907: [
+      "The Triple Entente was formed between the United Kingdom, France, and Russia.",
+      "New Zealand was granted dominion status within the British Empire."
+  ],
+  1908: [
+      "The Young Turk Revolution began in the Ottoman Empire, aiming to replace the absolute monarchy with a constitutional government.",
+      "A massive explosion occurred near the Tunguska River in Siberia, flattening an estimated 80 million trees over 2,150 square kilometers."
+  ],
+  1909: [
+      "Robert Peary claimed to have reached the North Pole, though his claim remains disputed.",
+      "The National Association for the Advancement of Colored People (NAACP) was founded in the United States."
+  ],
+  1910: [
+      "The Mexican Revolution began, a major armed struggle that transformed Mexican culture and government.",
+      "Japan annexed Korea, beginning a 35-year period of colonial rule."
+  ],
+  1911: [
+      "The Xinhai Revolution overthrew China's Qing Dynasty, ending more than 2,000 years of imperial rule.",
+      "Roald Amundsen reached the South Pole, becoming the first explorer to do so."
+  ],
+  1912: [
+      "The RMS Titanic sank in the North Atlantic Ocean after colliding with an iceberg, killing more than 1,500 people.",
+      "The Republic of China was established following the Xinhai Revolution, with Sun Yat-sen as its provisional president."
+  ],
+  1913: [
+      "The 16th Amendment to the U.S. Constitution was ratified, authorizing the federal government to impose an income tax.",
+      "The Second Balkan War began when Bulgaria attacked its former allies Serbia and Greece."
+  ],
+  1914: [
+      "Archduke Franz Ferdinand of Austria was assassinated in Sarajevo, precipitating World War I.",
+      "The Panama Canal officially opened, connecting the Atlantic and Pacific Oceans."
+  ],
+  1915: [
+      "The Ottoman Empire began the Armenian Genocide, systematically killing an estimated 1.5 million Armenians.",
+      "Albert Einstein presented his General Theory of Relativity."
+  ],
+  1916: [
+      "The Easter Rising took place in Ireland, an armed rebellion against British rule during Easter Week.",
+      "The Battle of the Somme began during World War I, one of the bloodiest battles in human history."
+  ],
+  1917: [
+      "The Russian Revolution overthrew the Tsarist autocracy and led to the rise of the Soviet Union.",
+      "The United States entered World War I, joining the Allies against the Central Powers."
+  ],
+  1918: [
+      "World War I ended with the signing of the Armistice at Compiègne, France.",
+      "The Spanish Flu pandemic began, eventually killing an estimated 50-100 million people worldwide."
+  ],
+  1919: [
+      "The Treaty of Versailles was signed, officially ending World War I and establishing the League of Nations.",
+      "The 19th Amendment to the U.S. Constitution was passed by Congress, guaranteeing women's suffrage."
+  ],
+  1920: [
+      "The League of Nations held its first meeting in Geneva, Switzerland.",
+      "The Mexican Revolution ended with Álvaro Obregón becoming president of Mexico."
+  ],
+  1921: [
+      "The Irish War of Independence ended with the Anglo-Irish Treaty, establishing the Irish Free State.",
+      "The Chinese Communist Party was founded in Shanghai."
+  ],
+  1922: [
+      "The Tomb of Tutankhamun was discovered by Howard Carter in Egypt's Valley of the Kings.",
+      "The Union of Soviet Socialist Republics (USSR) was established."
+  ],
+  1923: [
+      "The Great Kantō earthquake struck Japan, devastating Tokyo, Yokohama, and surrounding areas.",
+      "Hyperinflation peaked in the Weimar Republic of Germany, with prices doubling every few days."
+  ],
+  1924: [
+      "Vladimir Lenin died, leading to a power struggle in the Soviet Union that was eventually won by Joseph Stalin.",
+      "The Dawes Plan was accepted, aimed at resolving the World War I reparations Germany had to pay."
+  ],
+  1925: [
+      "The Scopes Trial (Monkey Trial) took place in Tennessee, testing a law prohibiting the teaching of evolution.",
+      "Benito Mussolini announced the beginning of fascist dictatorship in Italy."
+  ],
+  1926: [
+      "The General Strike began in the United Kingdom in support of coal miners refusing to accept lower wages.",
+      "The National Broadcasting Company (NBC) was founded as the first major broadcast network in the United States."
+  ],
+  1927: [
+      "Charles Lindbergh made the first solo non-stop transatlantic flight from New York to Paris.",
+      "The Chinese Civil War began between the Kuomintang and the Communist Party of China."
+  ],
+  1928: [
+      "Alexander Fleming discovered penicillin, beginning the era of antibiotics.",
+      "The Kellogg–Briand Pact was signed, renouncing war as an instrument of national policy."
+  ],
+  1929: [
+      "The Wall Street Crash occurred, initiating the Great Depression.",
+      "The Vatican City became an independent state through the Lateran Treaty with Italy."
+  ],
+  1930: [
+      "The Salt March was led by Mahatma Gandhi to protest the British salt monopoly in India.",
+      "Haile Selassie was crowned Emperor of Ethiopia, the last Ethiopian monarch."
+  ],
+  1931: [
+      "The Empire State Building was completed in New York City, becoming the world's tallest building at the time.",
+      "Japan invaded Manchuria, beginning the Second Sino-Japanese War."
+  ],
+  1932: [
+      "The Sydney Harbour Bridge opened in Australia.",
+      "The Holodomor, a man-made famine, began in Soviet Ukraine, killing millions of Ukrainians."
+  ],
+  1933: [
+      "Adolf Hitler was appointed Chancellor of Germany, beginning the Third Reich.",
+      "The New Deal was launched by U.S. President Franklin D. Roosevelt to combat the Great Depression."
+  ],
+  1934: [
+      "The Long March of the Chinese Communists began, a retreat from the Kuomintang forces.",
+      "The Soviet Union joined the League of Nations."
+  ],
+  1935: [
+      "Italy invaded Ethiopia, starting the Second Italo-Ethiopian War.",
+      "The Nuremberg Laws were enacted in Nazi Germany, institutionalizing racial discrimination against Jews."
+  ],
+  1936: [
+      "The Spanish Civil War began between the Republicans and the Nationalists led by General Francisco Franco.",
+      "The Summer Olympics were held in Berlin, Germany under the Nazi regime."
+  ],
+  1937: [
+      "The Nanjing Massacre occurred during the Second Sino-Japanese War.",
+      "The Hindenburg disaster took place when the German passenger airship caught fire and was destroyed."
+  ],
+  1938: [
+      "The Munich Agreement was signed, allowing Nazi Germany to annex the Sudetenland from Czechoslovakia.",
+      "Orson Welles' radio broadcast of 'The War of the Worlds' caused panic among listeners who believed it was an actual news report."
+  ],
+  1939: [
+      "World War II began with Nazi Germany's invasion of Poland.",
+      "The Winter War began when the Soviet Union invaded Finland."
+  ],
+  1940: [
+      "The Battle of Britain took place, a military campaign of the German Air Force against the United Kingdom.",
+      "The first McDonald's restaurant was opened by Richard and Maurice McDonald in San Bernardino, California."
+  ],
+  1941: [
+      "Japan attacked Pearl Harbor, leading to the United States' entry into World War II.",
+      "The siege of Leningrad began, one of the longest and most destructive sieges in history."
+  ],
+  1942: [
+      "The Battle of Stalingrad began, a major turning point in World War II.",
+      "The Manhattan Project began, a research and development project that produced the first nuclear weapons."
+  ],
+  1943: [
+      "The Warsaw Ghetto Uprising took place, the largest Jewish resistance during World War II.",
+      "The Cairo Conference was held, with Roosevelt, Churchill, and Chiang Kai-shek planning the Allied position against Japan."
+  ],
+  1944: [
+      "The Normandy landings (D-Day) took place, the largest seaborne invasion in history.",
+      "The Bretton Woods Agreement established the International Monetary Fund and the World Bank."
+  ],
+  1945: [
+      "World War II ended with the surrender of Japan following the atomic bombings of Hiroshima and Nagasaki.",
+      "The United Nations was established to promote international cooperation and prevent future conflicts."
+  ],
+  1946: [
+      "The first session of the United Nations General Assembly opened in London.",
+      "The Republic of the Philippines gained independence from the United States."
+  ],
+  1947: [
+      "India and Pakistan gained independence from British rule.",
+      "The Truman Doctrine was announced, stating that the United States would provide political, military, and economic assistance to democratic nations under threat."
+  ],
+  1948: [
+      "The State of Israel was established, following the United Nations Partition Plan for Palestine.",
+      "The apartheid system was officially instituted in South Africa by the National Party."
+  ],
+  1949: [
+      "The North Atlantic Treaty Organization (NATO) was established.",
+      "The People's Republic of China was proclaimed by Mao Zedong following the Chinese Communist Revolution."
   ]
 };
