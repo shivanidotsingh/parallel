@@ -3,7 +3,8 @@ body
   font-family: sans-serif;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
   justify-content: center;
   background-color: #f9f7e8;
   color: black;
@@ -14,6 +15,7 @@ body
 input {
   font-size: 2rem;
   padding: 1rem;
+  min-width: 200px;
   max-width: 600px;
   margin-bottom: 1rem;
 }
