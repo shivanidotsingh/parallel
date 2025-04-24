@@ -1,114 +1,114 @@
 const eventsByYear = {
-   "1820": [
-    { event: "The Missouri Compromise was passed in the U.S., regulating slavery in western territories." },
-    { event: "The Royal Astronomical Society was founded in London." }
+  1820: [
+    "Liberia is founded as a settlement for freed African Americans by the American Colonization Society.",
+    "The British East India Company consolidates control over Assam in northeastern India after defeating Burmese forces."
   ],
-  "1821": [
-    { event: "Mexico gained independence from Spain after 11 years of war." },
-    { event: "Napoleon Bonaparte died in exile on the island of Saint Helena." }
+  1821: [
+    "Mexico gains independence from Spain after 11 years of revolutionary war.",
+    "The Ashanti Empire wages war against the British in the Gold Coast (modern-day Ghana)."
   ],
-  "1822": [
-    { event: "Brazil declared independence from Portugal with Dom Pedro I as emperor." },
-    { event: "Champollion deciphered the Rosetta Stone, unlocking ancient Egyptian hieroglyphs." }
+  1822: [
+    "Brazil declares independence from Portugal under Dom Pedro I.",
+    "Shaka Zulu expands the Zulu Kingdom through military campaigns across southern Africa."
   ],
-  "1823": [
-    { event: "The Monroe Doctrine was declared by the U.S., opposing European colonialism in the Americas." },
-    { event: "The Royal Academy of Music was founded in London." }
+  1823: [
+    "The Monroe Doctrine is declared by the U.S., warning European powers against further colonization in the Americas.",
+    "The Burmese Konbaung Dynasty expands its territory, defeating the kingdom of Assam (modern northeast India)."
   ],
-  "1824": [
-    { event: "Beethoven's Ninth Symphony premiered in Vienna." },
-    { event: "The First Anglo-Burmese War began between the British Empire and the Kingdom of Ava." }
+  1824: [
+    "The First Anglo-Burmese War begins between British India and the Burmese Empire.",
+    "The Ashanti defeat British forces in the First Anglo-Ashanti War in present-day Ghana."
   ],
-  "1825": [
-    { event: "The world's first public railway to use steam locomotives opened in England (Stockton and Darlington Railway)." },
-    { event: "The Decembrist Revolt occurred in Russia, challenging Tsar Nicholas I’s succession." }
+  1825: [
+    "Russia suppresses the Decembrist revolt, an uprising demanding constitutional monarchy.",
+    "The British abolish the Malabar pepper trade monopoly in southern India, opening markets."
   ],
-  "1826": [
-    { event: "University College London was founded as the first secular university in England." },
-    { event: "The British captured the fortress of Bharatpur in India after a prolonged siege." }
+  1826: [
+    "The first railway in India, a small experimental line, is established near Madras.",
+    "The Sokoto Caliphate, one of the largest empires in Africa, expands under Sultan Bello in present-day Nigeria."
   ],
-  "1827": [
-    { event: "Ludwig van Beethoven died in Vienna." },
-    { event: "The Battle of Navarino was fought, a decisive naval battle in the Greek War of Independence." }
+  1827: [
+    "The Battle of Navarino sees a European alliance defeat the Ottoman-Egyptian fleet, aiding Greek independence.",
+    "Sultan Seyyid Said relocates the capital of Oman to Zanzibar, cementing Swahili coastal trade dominance."
   ],
-  "1828": [
-    { event: "Andrew Jackson was elected President of the United States." },
-    { event: "The Russo-Turkish War began over control of the Balkans and Black Sea region." }
+  1828: [
+    "The Russo-Turkish War begins over control of Eastern Europe and the Caucasus.",
+    "The Burmese Empire cedes Assam and parts of Manipur to the British East India Company."
   ],
-  "1829": [
-    { event: "The Metropolitan Police Service was established in London by Robert Peel." },
-    { event: "The first successful electric motor was demonstrated by William Sturgeon in England." }
+  1829: [
+    "Sati (widow immolation) is officially banned by the British in India under Governor-General Lord William Bentinck.",
+    "The Cape Colony (modern South Africa) begins formal education for freed slaves and non-Europeans."
   ],
-  "1830": [
-    { event: "Revolution in France: King Charles X was overthrown during the July Revolution." },
-    { event: "Simón Bolívar resigned from the presidency of Greater Colombia." }
+  1830: [
+    "France invades and begins colonization of Algeria, sparking decades of resistance.",
+    "A revolt in Java (Indonesia) leads to repression under Dutch colonial rule."
   ],
-  "1831": [
-    { event: "Michael Faraday discovered electromagnetic induction." },
-    { event: "The Belgian Revolution led to Belgium's independence from the Netherlands." }
+  1831: [
+    "Nat Turner's slave rebellion shakes the American South.",
+    "The Xhosa people resist British encroachment during the Sixth Frontier War in South Africa."
   ],
-  "1832": [
-    { event: "The Reform Act passed in the UK, expanding voting rights in Britain." },
-    { event: "The first cholera pandemic hit New York City, part of a global outbreak." }
+  1832: [
+    "The Reform Act is passed in Britain, expanding electoral rights.",
+    "Cholera spreads from India to Europe in the first global pandemic of the modern era."
   ],
-  "1833": [
-    { event: "The Slavery Abolition Act was passed in the British Empire." },
-    { event: "Chile experienced a major earthquake followed by a tsunami in the Pacific." }
+  1833: [
+    "Slavery is abolished throughout the British Empire.",
+    "The British suppress the Mysore rebellion in southern India."
   ],
-  "1834": [
-    { event: "The Palace of Westminster in London was destroyed by fire." },
-    { event: "The Zollverein, a German customs union, was officially established to unify trade." }
+  1834: [
+    "The Portuguese Inquisition is abolished after nearly 300 years.",
+    "Nguni migrations and the Mfecane wars reshape southern Africa’s political landscape."
   ],
-  "1835": [
-    { event: "Halley's Comet returned, with detailed observations made globally." },
-    { event: "Texas declared independence from Mexico, beginning the Texas Revolution." }
+  1835: [
+    "The British annex the region of Sindh in present-day Pakistan.",
+    "Haitian forces repel Dominican revolutionaries; tensions in Hispaniola escalate."
   ],
-  "1836": [
-    { event: "The Battle of the Alamo took place in Texas." },
-    { event: "Charles Darwin returned to England aboard the HMS Beagle." }
+  1836: [
+    "The Battle of the Alamo becomes a defining moment in the Texas Revolution.",
+    "Zanzibar becomes a regional trade power under Sultan Said bin Sultan."
   ],
-  "1837": [
-    { event: "Queen Victoria ascended the British throne." },
-    { event: "The Panic of 1837 triggered a major financial crisis in the U.S." }
+  1837: [
+    "Queen Victoria ascends the British throne, marking the beginning of the Victorian era.",
+    "Burmese resistance escalates against British rule in Arakan and Tenasserim (now Myanmar)."
   ],
-  "1838": [
-    { event: "The Trail of Tears forced thousands of Native Americans to relocate in the U.S." },
-    { event: "The People's Charter launched the Chartist movement in Britain." }
+  1838: [
+    "The First Anglo-Afghan War begins as the British try to install a puppet ruler in Afghanistan.",
+    "The Great Trek begins as Boer settlers move into interior South Africa, sparking conflicts with local kingdoms."
   ],
-  "1839": [
-    { event: "The First Opium War began between Britain and Qing China." },
-    { event: "Daguerre publicly revealed his photographic process in France." }
-  ]
-  "1840": [
-    "The World Anti-Slavery Convention convened in London.",
-    "The Treaty of Waitangi was signed in New Zealand."
+  1839: [
+    "The First Opium War begins between Britain and China after Chinese authorities destroy opium stockpiles.",
+    "Ethiopia defeats an Ottoman-led force in the Battle of Debre Tabor, asserting independence."
   ],
-  "1841": [
-    "President William Henry Harrison died after one month in office.",
-    "The Supreme Court ruled in favor of the Amistad captives."
+  1840: [
+    "New Zealand becomes a British colony with the signing of the Treaty of Waitangi.",
+    "Nguyen Dynasty solidifies imperial rule in Vietnam and suppresses Catholic uprisings."
   ],
-  "1842": [
-    "Webster-Ashburton Treaty resolved the US-Canada border dispute.",
-    "Treaty of Nanking ended the First Opium War, ceding Hong Kong to Britain."
+  1841: [
+    "Hong Kong Island is occupied by Britain following early victories in the First Opium War.",
+    "A major famine strikes northern China, resulting in widespread hardship."
   ],
-  "1843": [
-    "First major wagon train set off on the Oregon Trail.",
-    "Charles Dickens published 'A Christmas Carol'."
+  1842: [
+    "The Treaty of Nanking ends the First Opium War; China cedes Hong Kong to Britain.",
+    "The Boers establish the Natalia Republic in southern Africa."
   ],
-  "1844": [
-    "First telegraph message sent by Samuel Morse.",
-    "Dominican Republic declared independence from Haiti."
+  1843: [
+    "Sindh is annexed by the British East India Company following military conquest.",
+    "The Yoruba city-states in modern Nigeria engage in internal wars and trade competition with Europeans."
   ],
-  "1845": [
-    "United States annexed Texas.",
-    "Great Famine began in Ireland."
+  1844: [
+    "The Dominican Republic declares independence from Haiti.",
+    "The French intensify military campaigns against Algerian resistance led by Emir Abdelkader."
   ],
-  "1846": [
-    "Mexican-American War began.",
-    "Oregon Treaty established US-Canada border."
+  1845: [
+    "The Great Famine begins in Ireland, leading to mass emigration and death.",
+    "The Sikhs resist British interference, leading to the First Anglo-Sikh War in India."
   ],
-  "1847": [
-    "Battle of Buena Vista in the Mexican-American War.",
-    "The Brontë sisters published Jane Eyre and Wuthering Heights."
+  1846: [
+    "The Mexican-American War begins over disputed Texas territory.",
+    "A large slave rebellion is thwarted in Bahia, Brazil — one of the largest uprisings in the Americas."
+  ],
+  1847: [
+    "Liberia becomes the first African republic governed by formerly enslaved African Americans.",
+    "The Taiping Rebellion begins to simmer in China, driven by a blend of Christianity and anti-Qing sentiment."
   ]
 };
