@@ -14,7 +14,8 @@ body
 
 h1
 {
-  font-size: 4rem;
+  font-size: 2rem;
+  font-weight: normal; 
 }
 input {
   font-size: 2rem;
