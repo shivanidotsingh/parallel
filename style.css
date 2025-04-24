@@ -8,10 +8,14 @@ body
   justify-content: center;
   background-color: #f9f7e8;
   color: black;
-
+  
   padding: 2rem;
 }
 
+h1
+{
+  font-size: 4rem;
+}
 input {
   font-size: 2rem;
   padding: 1rem;
